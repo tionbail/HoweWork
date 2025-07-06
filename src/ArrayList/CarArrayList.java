@@ -1,4 +1,6 @@
-public class CarArrayList implements CarList{
+package ArrayList;
+
+public class CarArrayList implements CarList {
 
     private Car[] array = new Car[10];
     private int size = 0;
